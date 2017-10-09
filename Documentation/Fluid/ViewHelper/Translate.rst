@@ -29,7 +29,7 @@ default
     String
 
 :aspect:`Description`
-   If the key canto be matched in the translation file, then use this text instead. If this property isn't
+   If the key cannot be matched in the translation file, then use this text instead. If this property isn't
    defined, then the value between the opening and closing `f:translate` tags will be used.
 
 :aspect:`Default value`
